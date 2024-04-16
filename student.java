@@ -3,5 +3,6 @@ public class student {
         System.out.println("hello world");
         System.out.println("nihao");
         System.out.println("sjdjfjsjdf");
+        System.out.println("sfhsiudfhasiduf");
     }
 }
